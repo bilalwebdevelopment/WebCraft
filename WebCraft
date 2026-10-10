@@ -1,0 +1,91 @@
+body{
+
+}
+button{
+    border-radius: 20px;
+    background-color: zaure;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    border: blue;
+}
+h1{
+    margin-top: 10px;
+}
+section{
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+div{
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+}
+img{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+input{
+    border-radius: 8px;
+    font-size: 30px;
+}
+textarea{
+    border-radius: 10px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    width: 97%;
+}
+select{
+    border-radius: 8px;
+    width: 97%;
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+    color: blue;
+}
+.card1{
+    width: 30%;
+    float: left;
+    border: 2px solid;
+    padding: 5px;
+    text-align: center;
+}
+img:hover{
+    color: red;
+    border: 2px solid blue;
+    transform: scale(1);    
+}
+.card2{
+    width: 20%;
+    float: left;
+    border: 2px solid;
+    background-color: azure;
+    font-size: 15px;
+    border-radius: 50px;
+}
+.card1:hover{
+    border: 2px solid blue;
+    transform: scale(1.05);
+    background-color: azure;
+}
+.card3{
+    color: black;
+    background-color: blue;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card3:hover{
+    background-color: yellow;
+    color: black;
+}
+.card4{
+    width: 97%;
+}
